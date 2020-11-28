@@ -1,2 +1,8 @@
 # webdriverActionsDemo
 在Github Actions上部署Python+Webdriver批量注册应用程序demo
+
+（表面上是为了给萌新们放出教程，实际上是为了让我可以在actions公共仓库里运行薅我自己羊毛的脚本XD）
+
+需要安装selenium库才可以调用
+
+这个仓库中的那个二进制文件是用pyinstaller生成的(onefile)
