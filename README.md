@@ -5,4 +5,4 @@
 
 需要安装selenium库才可以调用
 
-这个仓库中的那个二进制文件是用pyinstaller生成的(onefile)
+这个仓库中的那个二进制文件是用pyinstaller生成的(onefile),不要下载它，它只是演示能够正常使用的例子
